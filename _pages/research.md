@@ -22,7 +22,7 @@ and transport in water-sediment interface. A reactive transport model was develo
 this study to explain the iron distribution in the environment.
 - Machine learning approaches assisted in iron bioredcution rates upscaling. Artificial 
 neutral networks were applied in this study to reveal the inner connections among the 
-affecting factors.
+affecting factors.  
 B.S. in environment science and engineering  
 - Reactive transport experiments and modelling of the antibitics in porous media. The 
 research highlighted the flow-interruption on the transport in the porous media.
