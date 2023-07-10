@@ -10,7 +10,7 @@ Publications with peer-reviewed
 
 1. Wang, S., Zhu, H., Zheng, G., Dong, F., & Liu, C. (2022). [Dynamic Changes in Biofilm Structures under Dynamic Flow Conditions](https://doi.org/doi:10.1128/aem.01072-22). *Applied and Environmental Microbiology*, 88(22), e01072-01022.
 2. Wang, S., Zhu, H., Zhang, C., Ye, Y., Zhang, R., Wang, X., & Liu, C. (2023). [Microscopic insights into the variations of antibiotics sorption to clay minerals](https://doi.org/10.1016/j.ecoenv.2023.114970). *Ecotoxicology and Environmental Safety*, 258, 114970. 
-3. Chen, Y.; Feng, J.; Wang, X.; Zhang, C.; Ke, D.; Zhu, H.; Wang, S.; Suo, H.; Liu, C. (2023). [An Iterative Approach of Experiment-Machine Learning for Efficient Optimization of Environmental Catalysts: An Example of NOx Selective Reduction Catalysts]([https://doi.org/10.1021/acs.est.2c08816](https://doi.org/10.1021/acs.est.3c00293)). *Environemntal Science & Technology*. 
+3. Chen, Y.; Feng, J.; Wang, X.; Zhang, C.; Ke, D.; Zhu, H.; Wang, S.; Suo, H.; Liu, C. (2023). [An Iterative Approach of Experiment-Machine Learning for Efficient Optimization of Environmental Catalysts: An Example of NOx Selective Reduction Catalysts](https://doi.org/10.1021/acs.est.3c00293). *Environemntal Science & Technology*. 
 
 Manuscripts under Review
 ===
