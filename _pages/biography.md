@@ -17,9 +17,9 @@ Education
 Work experience
 ======
 * S.S. Papadopulos & Associates, Inc., Washingtong DC, USA
-  * Visiting student with Charles Andrews (Senior Principal)  08/2019
+  * Visiting student with Charles Andrews (Senior Principal),  08/2019
   * Duty: Soil and groundwater contamination and remediation
-* Shenzhen Polytechnic University , Shenzhen, China  09/2022–present
+* Shenzhen Polytechnic University , Shenzhen, China,  09/2022–present
   * Visiting student with Xiaoxiang Wang (associate professor) 
   * Duty: Microscopic experiments and simulation (CFD and MD) approaches were employed to investigate the adsorption of CO2 at the crack scale. Study highlighted the microorganisms effects on the CO2 capture and ultilization process.
 
