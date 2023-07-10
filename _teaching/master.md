@@ -1,9 +1,8 @@
 ---
 title: "Biofilm physichemical property in the environment"  
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Liu's lab"
+venue: "SUSTech"
+date: 2021
 ---
 ![Biofilm in the porous media](https://shuaiwang981108.github.io/images/biofilm.png)  
 
