@@ -1,10 +1,10 @@
 ---
 title: "M.S. researcch"
-collection: teaching
+collection: Research
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2021/06-2024/06
 location: "Southern University of Science and Technology (SUSTech) "
 ---
 
