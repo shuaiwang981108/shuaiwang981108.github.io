@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shaui Wang - Personal Website"
 title_separator          : "-"
 name                     : &name "Shuai Wang"
-description              : &description "personal description"
+description              : &description "M.S. in Environment"
 url                      : https://shuaiwang981108.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuaiwang981108/shuaiwang981108.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shaui Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.S. in Environment"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
