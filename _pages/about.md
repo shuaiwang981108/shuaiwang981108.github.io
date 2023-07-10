@@ -12,7 +12,7 @@ Hello! I’m Shuai, a master student at Southern University of Science and Techn
 
 My work and research
 ======
-My research interests cover diverse aspects of environmental science and engineering related to the biogeochemical cycles of irons in the enviroment. My current research topic focuses on using experiment and model prediction technology to unravel the mechanisms of biofilm interaction with metals. I have also studied molecular dynamics (MD) simualtions and the computational fluid dynamics (CFD).
+My research interests cover diverse aspects of environmental science and engineering related to the biogeochemical cycles of irons in the enviroment. My current research topic focuses on using experiment and model prediction technology to unravel the mechanisms of biofilm interaction with heavy metals. I have also studied molecular dynamics (MD) simualtions and the computational fluid dynamics (CFD) appoarches.
 
 My background and history
 ======
