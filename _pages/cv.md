@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+@import "test.pdf"
 {% include base_path %}
 
 
-* Currently signed in to 43 different slack teams
+
