@@ -22,6 +22,7 @@ Manuscripts under Review
 Manuscripts in Preparing
 ===
 1.**Wang, S.**; Zhu, H.; Ke, D.; Gao, K.; Liu, C., Hydrodynamics and Hydrochemical Effects on Ferrihydrite Bioreduction with Shewanella Oneidensis MR-1 Biofilms.
+
 2. Zhang, C.*; **Wang, S.\***; Suo, H.; Liu, C., Effects of Flow-Interruption on the Transport of Tetracycline in Porous Media. (‘*’ contribution equally)
 
 <!-- 这段我给注释掉了，如果有需要可以把注释符号删掉
