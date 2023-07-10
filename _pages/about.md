@@ -16,4 +16,4 @@ My research interests cover diverse aspects of environmental science and enginee
 
 My background and history
 ======
-I am from Tsingtao, China. I earned my Bachelor’s degree from the [School of Enviornment](https://ese.sustech.edu.cn/index.html?locale=en_US) in [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in 2021, working with Dr. [Chongxuan Liu](https://scholar.google.com/citations?user=Br6IaTQAAAAJ&hl=en). I will graduate from SUSTech in 2024.06.
+I am from Tsingtao, China. I earned my Bachelor’s degree from the [School of Enviornment](https://ese.sustech.edu.cn/index.html?locale=en_US) in [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in 2021, working with Dr. [Chongxuan Liu](https://scholar.google.com/citations?user=Br6IaTQAAAAJ&hl=en). I will graduate from SUSTech in 2024.06, working with Dr. [Chongxuan Liu](https://scholar.google.com/citations?user=Br6IaTQAAAAJ&hl=en).
