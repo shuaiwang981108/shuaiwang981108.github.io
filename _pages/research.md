@@ -11,7 +11,7 @@ Southern University of Science and Technology, Shenzhen, China 03/2019–present
 ======
 Supervised by Prof. Chongxuan Liu (Chair Professor)  
 - Hydrodynamics effect on biofilm 3D micro-structures and biofilm response to complex
-dynamic flows. A biofilm detachment model was established in this study. 
+dynamic flows. A biofilm detachment model was established in this study.  
 - Dynamic analysis of the biofilm redcution kinetics of the ferrihydrite. A comprehensive 
 biofilm reduction models was developed and a possible upscaling hypothesis was put 
 forword based on the biofilm thickness inhibition. 
