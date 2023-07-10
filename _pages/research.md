@@ -9,7 +9,7 @@ author_profile: true
 
 Southern University of Science and Technology, Shenzhen, China 03/2019–present
 ======
-Supervised by Prof. Chongxuan Liu (Chair Professor)
+Supervised by Prof. Chongxuan Liu (Chair Professor)  
 M.S. in biology
 - Hydrodynamics effect on biofilm 3D micro-structures and biofilm response to complex
 dynamic flows. A biofilm detachment model was established in this study. 
@@ -23,7 +23,7 @@ this study to explain the iron distribution in the environment.
 - Machine learning approaches assisted in iron bioredcution rates upscaling. Artificial 
 neutral networks were applied in this study to reveal the inner connections among the 
 affecting factors.
-B.S. in environment science and engineering
+B.S. in environment science and engineering  
 - Reactive transport experiments and modelling of the antibitics in porous media. The 
 research highlighted the flow-interruption on the transport in the porous media.
 - Microscopic insights into the adsorption of antibitics with clay minerals. The research 
