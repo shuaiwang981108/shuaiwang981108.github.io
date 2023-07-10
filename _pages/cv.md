@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](@import "files/CV.pdf")
+[CV](@import "/files/CV.pdf")
 {% include base_path %}
 
 
