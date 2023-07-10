@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV]("/files/CV.pdf")
+[CV]("/shuaiwang981108.github.io/files/CV.pdf")
 {% include base_path %}
 
 
