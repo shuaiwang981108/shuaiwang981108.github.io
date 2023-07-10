@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Shaui Wang"
-  avatar           : "profile.png"
+#  avatar           : "profile.png"
+  avatar           : wangshuai.jpg
   bio              : "M.S. in Environment"
   location         : "Shenzhen, China"
   employer         :
