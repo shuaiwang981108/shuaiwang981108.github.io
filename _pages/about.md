@@ -14,9 +14,9 @@ My work and research
 ======
 My research interests cover diverse aspects of environmental science and engineering related to the biofilm biogeochemical cycles with heavy metal in the enviroment and the related extracellular electron transfer process. My current research topic focuses on using experiment and model prediction technology to unravel the mechanisms of biofilm interaction with heavy metals. I have also studied molecular dynamics (MD) simualtions and the computational fluid dynamics (CFD) appoarches.  
   
-<img src="https://shuaiwang981108.github.io/images/biofilm schemetic.png" width = "400" height = "400" alt="biofilm study" align=center />  
+<img src="https://shuaiwang981108.github.io/images/biofilm schemetic.png" width = "500" height = "400" alt="biofilm study" align=center />  
 
-<img src="https://shuaiwang981108.github.io/images/biogeochemistry.png" width = "400" height = "400" alt="biogeochemistry" align=center />  
+<img src="https://shuaiwang981108.github.io/images/biogeochemistry.png" width = "500" height = "350" alt="biogeochemistry" align=center />  
 
   
 <img src="https://shuaiwang981108.github.io/images/MD.png" alt="Surface adsorption model" align=center />
