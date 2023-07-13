@@ -13,7 +13,8 @@ Hello! I’m Shuai, a master student at Southern University of Science and Techn
 My work and research
 ======
 My research interests cover diverse aspects of environmental science and engineering related to the biofilm biogeochemical cycles with heavy metal in the enviroment and the related extracellular electron transfer process. My current research topic focuses on using experiment and model prediction technology to unravel the mechanisms of biofilm interaction with heavy metals. I have also studied molecular dynamics (MD) simualtions and the computational fluid dynamics (CFD) appoarches.  
-![Biofilm study](https://shuaiwang981108.github.io/images/Biofilm.png =400x300)
+<img src="https://shuaiwang981108.github.io/images/Biofilm.png" width = "400" height = "300" alt="Biofilm study" />
+
 ![Surface adsorption model](https://shuaiwang981108.github.io/images/MD.png)
 
 My background and history
