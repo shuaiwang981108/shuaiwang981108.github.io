@@ -10,7 +10,7 @@ author_profile: true
 Southern University of Science and Technology, Shenzhen, China 03/2019–present
 ======
 Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br6IaTQAAAAJ&hl=en) (Chair Professor)  
-1. The co-evolution of microbial biofilm function and hydrobiogeochemical processes.
+1. The co-evolution of microbial biofilm function and hydrobiogeochemical processes.  
 	Hydrodynamics effect on biofilm 3D micro-structures and biofilm response to complex dynamic flows. An universial biofilm detachment model was established in this study.  
 	CFD and ML approaches in unravelling the mechanisms of the biofilm detachment with complex environmental factors.  
 2. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.  
