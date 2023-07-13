@@ -21,7 +21,7 @@ Work experience
   * Duty: Soil and groundwater contamination and remediation
 * Shenzhen Polytechnic University , Shenzhen, China,  01/2023–12/2023
   * Visiting student (online) with Xiaoxiang Wang (associate professor) 
-  * Duty: Microscopic experiments and simulation (CFD and MD) approaches were employed to investigate the adsorption of CO2 at the crack scale. Study highlighted the microorganisms effects on the CO2 capture and ultilization process.
+  * Duty: Microscopic experiments and simulation (CFD and MD) approaches were employed to investigate the adsorption of CO2 at the crack scale. Study highlighted the CO2 capture and ultilization process in the molecular scale with in situ visualization.
 
 Skills
 ======
