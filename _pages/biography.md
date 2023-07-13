@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * S.S. Papadopulos & Associates, Inc., Washingtong DC, USA
-  * Visiting student with Charles Andrews (Senior Principal),  08/2019
+  * Visiting student with [Charles Andrews](https://www.sspa.com/staff/andrews-charles-b-phd) (Senior Principal),  08/2019
   * Duty: Soil and groundwater contamination and remediation
 * Shenzhen Polytechnic University , Shenzhen, China,  06/2022–06/2023
   * Visiting student with Xiaoxiang Wang (associate professor) 
