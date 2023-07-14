@@ -32,7 +32,7 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
 3. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
-   -	Microscopic insights into the adsorption of antibitics with clay minerals. The research utilized macro-scale adsorption experiments and micro-scale molecular dynamics simulation to unravel the surface mechanisms.
+   -	Microscopic insights into the adsorption of antibitics with clay minerals. The research utilized macro-scale adsorption experiments and micro-scale molecular dynamics simulation to unravel the surface mechanisms.  
 
 <img src="https://shuaiwang981108.github.io/images/MD.png" alt="MD" align=center />   
 
