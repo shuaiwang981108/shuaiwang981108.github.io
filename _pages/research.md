@@ -26,7 +26,9 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    -	ML approaches assisted in iron bioredcution rates upscaling. Artificial neutral networks were applied in this study to reveal the inner connections among the affecting factors.  
 
-   -	Reactive transport experiments and modelling of the antibitics in porous media. The research highlighted the flow-interruption on the transport in the porous media.   
+   -	Reactive transport experiments and modelling of the antibitics in porous media. The research highlighted the flow-interruption on the transport in the porous media.
+
+    <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="biofilm study" align=center />  
 
 3. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
