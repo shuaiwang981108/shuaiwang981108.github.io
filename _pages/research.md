@@ -28,7 +28,7 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    -	Reactive transport experiments and modelling of the antibitics in porous media. The research highlighted the flow-interruption on the transport in the porous media.
 
-    <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="biofilm study" align=center />  
+    <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" align=center />  
 
 3. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
