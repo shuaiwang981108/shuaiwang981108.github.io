@@ -18,10 +18,10 @@ My research interests cover diverse aspects of environmental science and enginee
 
 <!--img src="https://shuaiwang981108.github.io/images/biofilm schemetic.png" width = "500" height = "400" alt="biofilm study" align=center /-->  
 
-<!img src="https://shuaiwang981108.github.io/images/biogeochemistry.png" width = "500" height = "400" alt="biogeochemistry" align=center />  
+<!--img src="https://shuaiwang981108.github.io/images/biogeochemistry.png" width = "500" height = "400" alt="biogeochemistry" align=center /-->  
 
   
-<!img src="https://shuaiwang981108.github.io/images/MD.png" alt="Surface adsorption model" align=center />
+<!--img src="https://shuaiwang981108.github.io/images/MD.png" alt="Surface adsorption model" align=center /-->
 
 My background and history
 ======
