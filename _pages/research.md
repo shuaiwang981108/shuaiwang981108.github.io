@@ -28,9 +28,10 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    -	Reactive transport experiments and modelling of the antibitics in porous media. The research highlighted the flow-interruption on the transport in the porous media.
 
-    <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />  
+    <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />
+    <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="hyporheic" width = "750" height = "450" align=center />    
 
-3. Molecular-scale interfacial adsorption for environmental contaminant removal.
+4. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
    -	Microscopic insights into the adsorption of antibitics with clay minerals. The research utilized macro-scale adsorption experiments and micro-scale molecular dynamics simulation to unravel the surface mechanisms.  
 
