@@ -30,7 +30,7 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
     <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />
      
-    <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm" width = "750" height = "450" align=center />    
+    <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />    
 
 4. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
