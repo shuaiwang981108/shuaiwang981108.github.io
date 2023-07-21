@@ -16,9 +16,11 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    -	CFD and ML approaches in unravelling the mechanisms of the biofilm detachment with complex environmental factors.
 
-   <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />  
+   <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
 
-2. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.
+   <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
+
+3. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.
    
    -	Dynamic analysis of the biofilm redcution kinetics of the ferrihydrite. A comprehensive biofilm reduction models was developed and a possible upscaling hypothesis was put forword based on the biofilm thickness inhibition. 
 
@@ -30,7 +32,7 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
     <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />
      
-    <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />    
+        
 
 4. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
