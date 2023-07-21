@@ -18,7 +18,10 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
 
-     
+
+
+
+    
    <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
 
    
