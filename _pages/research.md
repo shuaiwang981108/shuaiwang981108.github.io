@@ -16,9 +16,11 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
    -	CFD and ML approaches in unravelling the mechanisms of the biofilm detachment with complex environmental factors.
 
+   <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
+     
    <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
 
-   <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
+   
 
 3. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.
    
