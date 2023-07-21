@@ -43,7 +43,7 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
 
 
-[1]Environ. Sci. Technol. 2011, 45, 8, 3367–3373.
-[2]Nat Rev Microbiol 20, 608–620 (2022).
+1. Environ. Sci. Technol. 2011, 45, 8, 3367–3373.
+2. Nat Rev Microbiol 20, 608–620 (2022).
 
 
