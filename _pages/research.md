@@ -22,7 +22,8 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
    -	Reactive transport experiments and modelling of the antibitics in porous media. The research highlighted the flow-interruption on the transport in the porous media.
 
     <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />
-     
+
+     <img src="https://shuaiwang981108.github.io/images/diffusion.png" alt="diffusion" align=center />  
 
 2. The co-evolution of microbial biofilm function and hydrobiogeochemical processes.
    
