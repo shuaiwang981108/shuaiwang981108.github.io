@@ -10,23 +10,8 @@ author_profile: true
 Southern University of Science and Technology, Shenzhen, China 03/2019–present
 ======
 Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br6IaTQAAAAJ&hl=en) (Chair Professor)  
-1. The co-evolution of microbial biofilm function and hydrobiogeochemical processes.
-   
-   -	Hydrodynamics effect on biofilm 3D micro-structures and biofilm response to complex dynamic flows. An universial biofilm detachment model was established in this study.  
 
-   -	CFD and ML approaches in unravelling the mechanisms of the biofilm detachment with complex environmental factors.
-
-   <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
-
-
-
-
-    
-   <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
-
-   
-
-3. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.
+1. The dynamics of iron and pollutant hydrobiogeochemistry in the hyporheic zone.
    
    -	Dynamic analysis of the biofilm redcution kinetics of the ferrihydrite. A comprehensive biofilm reduction models was developed and a possible upscaling hypothesis was put forword based on the biofilm thickness inhibition. 
 
@@ -38,9 +23,18 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
 
     <img src="https://shuaiwang981108.github.io/images/hyporheic.png" alt="hyporheic" width = "750" height = "450" align=center />
      
-        
 
-4. Molecular-scale interfacial adsorption for environmental contaminant removal.
+2. The co-evolution of microbial biofilm function and hydrobiogeochemical processes.
+   
+   -	Hydrodynamics effect on biofilm 3D micro-structures and biofilm response to complex dynamic flows. An universial biofilm detachment model was established in this study.  
+
+   -	CFD and ML approaches in unravelling the mechanisms of the biofilm detachment with complex environmental factors.
+
+   <img src="https://shuaiwang981108.github.io/images/biofilm.png" alt="biofilm"  align=center />  
+    
+   <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
+
+3. Molecular-scale interfacial adsorption for environmental contaminant removal.
    
    -	Microscopic insights into the adsorption of antibitics with clay minerals. The research utilized macro-scale adsorption experiments and micro-scale molecular dynamics simulation to unravel the surface mechanisms.  
 
