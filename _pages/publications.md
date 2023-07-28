@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications with peer-reviewed
+Publications with Peer-reviewed
 ===
 
 1. **Wang, S.**, Zhu, H., Zheng, G., Dong, F., & Liu, C. (2022). [Dynamic Changes in Biofilm Structures under Dynamic Flow Conditions](https://doi.org/doi:10.1128/aem.01072-22). *Applied and Environmental Microbiology*, 88(22), e01072-01022.
