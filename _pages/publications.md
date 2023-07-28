@@ -15,13 +15,13 @@ Publications with peer-reviewed
    
 Manuscripts under Review
 ===
-1. **Wang, S.**; Zhu, H.; Gao, K.; Liu, C., Biofilm Kinetics of Ferrihydrite Reduction. Submitted to *Chemosphere* in May 2023. Under review.
-2. **Wang, S.**; Zhu, H.; Zhang, R.; Li, Z.; Wang, X., Single-cell-resolution analysis revealing hydrodynamics and morphology effect on biofilm detachment. Submitted to *Science of the Total Environment* in May 2023. Under review.
+1. **Wang, S.**; Zhu, H.; Zhang, R.; Li, Z.; Wang, X., Single-cell-resolution analysis revealing hydrodynamics and morphology effect on biofilm detachment. Submitted to *Science of the Total Environment* in May 2023. Under review.
 
 Manuscripts in Preparing
 ===
-1. **Wang, S.**; Zhu, H.; Ke, D.; Gao, K.; Liu, C., Hydrodynamics and Hydrochemical Effects on Ferrihydrite Bioreduction with Shewanella Oneidensis MR-1 Biofilms.  
-2. Zhang, C.*; **Wang, S.\***; Suo, H.; Liu, C., Effects of Flow-Interruption on the Transport of Tetracycline in Porous Media. (‘\*’ contribution equally)
+1. **Wang, S.**; Zhu, H.; Ke, D.; Gao, K.; Liu, C., Hydrodynamics and Hydrochemical Effects on Ferrihydrite Bioreduction with Shewanella Oneidensis MR-1 Biofilms.
+2. **Wang, S.**; Zhu, H.; Gao, K.; Liu, C., Biofilm Kinetics of Ferrihydrite Reduction.
+3. Zhang, C.*; **Wang, S.\***; Suo, H.; Liu, C., Effects of Flow-Interruption on the Transport of Tetracycline in Porous Media. (‘\*’ contribution equally)
 
 <!-- 这段我给注释掉了，如果有需要可以把注释符号删掉
 
