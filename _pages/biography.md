@@ -25,7 +25,6 @@ Work experience
 
 Skills
 ======
-* **Software:** Gromacs; COMSOL-Multiphysics; BiofilmQ; Gaussian; Python; MATLAB 
-* **Language:** Chinese (native); English
+* **Software:** Gromacs; COMSOL-Multiphysics; BiofilmQ; Gaussian; Python; MATLAB  
 * **Experimental Instrument:** CLSM, UV-Vis; XRD; HPLC; Flow Cytometry; ICP-OES; 
-FTIR; SEM-EDS; XPS; IC; TEM; AFM.
+FTIR; SEM-EDS; XPS; TEM; AFM；EES.
