@@ -31,9 +31,9 @@ Supervised by Prof. [Chongxuan Liu](https://scholar.google.com/citations?user=Br
     
    <img src="https://shuaiwang981108.github.io/images/detachment.png" alt="biofilm study" align=center />
 
-3. Molecular-scale interfacial adsorption for environmental contaminant removal.
-   
-   -	Microscopic insights into the adsorption of antibitics with clay minerals. The research utilized macro-scale adsorption experiments and micro-scale molecular dynamics simulation to unravel the surface mechanisms.  
+3. Molecular-scale interfacial adsorption for environmental contaminant removal:
+-	Gaining microscopic insights into the adsorption of antibiotics with clay minerals. The research employed macro-scale adsorption experiments and micro-scale molecular dynamics simulations to unravel the surface mechanisms.  
+
 
 <img src="https://shuaiwang981108.github.io/images/MD.png" alt="MD" align=center />   
 
