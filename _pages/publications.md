@@ -23,6 +23,13 @@ Manuscripts in Preparation
 2. **Wang, S.**; Zhu, H.; Gao, K.; Liu, C., Biofilm Kinetics of Ferrihydrite Reduction.
 3. Zhang, C.*; **Wang, S.\***; Suo, H.; Liu, C., Effects of Flow-Interruption on the Transport of Tetracycline in Porous Media. (‘\*’ contribution equally)
 
+Conference
+===
+-	**Shuai Wang** and Chongxuan Liu, Insights on the variations of antibiotics sorption to mineral surfaces from molecular dynamics simulations. The 11th National Conference on Environmental Chemistry, Harbin, China, poster, 07/2022  
+-	**Shuai Wang** and Chongxuan Liu, Hydrodynamics affected biofilm function in iron(III) reduction. ACS Fall 2023 National meeting, oral presentation.   
+-	**Shuai Wang** and Chongxuan Liu, Biofilm kinetics of ferrihydrite reduction. ACS Fall 2023 National meeting, poster.  
+-	**Shuai Wang** and Chongxuan Liu, Guangdong-hong Kong-Macao Young Scientists Forum on Ecological Environment, invited presentation.  
+
 <!-- 这段我给注释掉了，如果有需要可以把注释符号删掉
 
 {% if author.googlescholar %}
