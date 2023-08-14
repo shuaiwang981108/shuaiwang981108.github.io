@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaui Wang - Personal Website"
+title                    : "Shuai Wang - Personal Website"
 title_separator          : "-"
 name                     : &name "Shuai Wang"
 description              : &description "M.S. in Environment"
