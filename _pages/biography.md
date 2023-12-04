@@ -26,5 +26,4 @@ Work experience
 Skills
 ======
 * **Software:** Gromacs; COMSOL-Multiphysics; BiofilmQ; Gaussian; Python; MATLAB  
-* **Experimental Instrument:** CLSM, UV-Vis; XRD; HPLC; Flow Cytometry; ICP-OES; 
-FTIR; SEM-EDS; XPS; TEM; AFM；EES.
+* **Experimental Instrument:** CLSM, UV-Vis; XRD; HPLC; Flow Cytometry; ICP-OES; FTIR; SEM-EDS; XPS; TEM; AFM; EES.
