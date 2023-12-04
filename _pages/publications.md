@@ -13,16 +13,6 @@ Publications with Peer-Reviewed
 3. Chen, Y.; Feng, J.; Wang, X.; Zhang, C.; Ke, D.; Zhu, H.; **Wang, S.**; Suo, H. & Liu, C. (2023). [An Iterative Approach of Experiment-Machine Learning for Efficient Optimization of Environmental Catalysts: An Example of NOx Selective Reduction Catalysts](https://doi.org/10.1021/acs.est.3c00293). *Environemntal Science & Technology*. 
 4. Zhu, H.; **Wang, S.**; Gao, K. & Liu, C. (2023). [Cross-Scale Models for Iron Oxides Bioreduction Rates](https://doi.org/10.1016/j.jhydrol.2023.129976). *Journal of Hydrology*, 624, 129976.    
    
-Manuscripts under Review
-===
-1. **Wang, S.**; Zhu, H.; Zhang, R.; Li, Z.; Wang, X., Single-cell-resolution analysis revealing hydrodynamics and morphology effect on biofilm detachment. Submitted to *Science of the Total Environment* in May 2023. Under review.
-2. Zhang, C.; Li, R.; Ke, D.; Suo, H.; **Wang, S.**, Ma, E.; Chen, Y.; Liu, C., Intraparticle sorption and desorption of antibiotics. Submitted to *Water Research* in August 2023.  
-   
-Manuscripts in Preparation
-===
-1. **Wang, S.**; Zhu, H.; Ke, D.; Gao, K.; Liu, C., Hydrodynamics and Hydrochemical Effects on Ferrihydrite Bioreduction with Shewanella Oneidensis MR-1 Biofilms.
-2. **Wang, S.**; Zhu, H.; Gao, K.; Liu, C., Biofilm Kinetics of Ferrihydrite Reduction.
-3. Zhang, C.*; **Wang, S.\***; Suo, H.; Liu, C., Effects of Flow-Interruption on the Transport of Tetracycline in Porous Media. (‘\*’ contribution equally)
 
 Conference
 ===
