@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Shuai Wang"
 #  avatar           : "profile.png"
-  avatar           : photo_lowresolution.png
+#  avatar           : photo_lowresolution.png
+  avatar           : "Shuaiwang.jpg"
   bio              : "M.S. in Environment"
   location         : "Shenzhen, China"
   employer         :
